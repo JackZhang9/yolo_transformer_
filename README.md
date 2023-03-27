@@ -1,2 +1,3 @@
 # yolo_transformer_
-假如自注意力机制
+yolov5+自注意力机制
+加入了一些列transformer机制
